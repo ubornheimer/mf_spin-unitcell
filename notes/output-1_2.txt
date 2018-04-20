@@ -1,0 +1,752 @@
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+Initial read of the generator coefficients from file succeeded.
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+Initial read of the generator coefficients from file succeeded.
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!1.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+value size good!0.000000
+Initial read of the generator coefficients from file succeeded.
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.604734, phi_out 0.000000
+phi_in 0.277746, phi_out -0.067192
+phi_in 0.588194, phi_out 0.000000
+phi_in 0.112554, phi_out 0.000000
+phi_in 0.617000, phi_out 0.000000
+phi_in 0.165875, phi_out 0.000000
+phi_in 0.463797, phi_out -0.067192
+phi_in 0.220441, phi_out 0.000000
+phi_in 0.431663, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.617000
+iteration 1
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.302367, phi_out 0.000000
+phi_in 0.105277, phi_out 0.005905
+phi_in 0.294097, phi_out 0.000000
+phi_in 0.056277, phi_out 0.000000
+phi_in 0.308500, phi_out 0.000000
+phi_in 0.082937, phi_out 0.000000
+phi_in 0.198302, phi_out 0.005905
+phi_in 0.110221, phi_out 0.000000
+phi_in 0.215831, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.308500
+iteration 2
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.151183, phi_out 0.000000
+phi_in 0.055591, phi_out 0.084137
+phi_in 0.147049, phi_out 0.000000
+phi_in 0.028139, phi_out 0.000000
+phi_in 0.154250, phi_out 0.000000
+phi_in 0.041469, phi_out 0.000000
+phi_in 0.102104, phi_out 0.084137
+phi_in 0.055110, phi_out 0.000000
+phi_in 0.107916, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.154250
+iteration 3
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.075592, phi_out 0.000000
+phi_in 0.069864, phi_out 0.185049
+phi_in 0.073524, phi_out 0.000000
+phi_in 0.014069, phi_out 0.000000
+phi_in 0.077125, phi_out 0.000000
+phi_in 0.020734, phi_out 0.000000
+phi_in 0.093120, phi_out 0.185049
+phi_in 0.027555, phi_out 0.000000
+phi_in 0.053958, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.115185
+iteration 4
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.037796, phi_out 0.000000
+phi_in 0.127457, phi_out 0.433958
+phi_in 0.036762, phi_out 0.000000
+phi_in 0.007035, phi_out 0.000000
+phi_in 0.038562, phi_out 0.000000
+phi_in 0.010367, phi_out 0.000000
+phi_in 0.139085, phi_out 0.433958
+phi_in 0.013778, phi_out 0.000000
+phi_in 0.026979, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.306502
+iteration 5
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.018898, phi_out 0.000000
+phi_in 0.280708, phi_out 0.496320
+phi_in 0.018381, phi_out 0.000000
+phi_in 0.003517, phi_out 0.000000
+phi_in 0.019281, phi_out 0.000000
+phi_in 0.005184, phi_out 0.000000
+phi_in 0.286522, phi_out 0.496320
+phi_in 0.006889, phi_out 0.000000
+phi_in 0.013489, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.215613
+iteration 6
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.009449, phi_out 0.000000
+phi_in 0.388514, phi_out 0.499484
+phi_in 0.009191, phi_out 0.000000
+phi_in 0.001759, phi_out 0.000000
+phi_in 0.009641, phi_out 0.000000
+phi_in 0.002592, phi_out 0.000000
+phi_in 0.391421, phi_out 0.499484
+phi_in 0.003444, phi_out 0.000000
+phi_in 0.006745, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.110970
+iteration 7
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.004724, phi_out 0.000000
+phi_in 0.443999, phi_out 0.499898
+phi_in 0.004595, phi_out 0.000000
+phi_in 0.000879, phi_out 0.000000
+phi_in 0.004820, phi_out 0.000000
+phi_in 0.001296, phi_out 0.000000
+phi_in 0.445452, phi_out 0.499898
+phi_in 0.001722, phi_out 0.000000
+phi_in 0.003372, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.055900
+iteration 8
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.002362, phi_out 0.000000
+phi_in 0.471949, phi_out 0.499977
+phi_in 0.002298, phi_out 0.000000
+phi_in 0.000440, phi_out 0.000000
+phi_in 0.002410, phi_out 0.000000
+phi_in 0.000648, phi_out 0.000000
+phi_in 0.472675, phi_out 0.499977
+phi_in 0.000861, phi_out 0.000000
+phi_in 0.001686, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.028029
+iteration 9
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.001181, phi_out 0.000000
+phi_in 0.485963, phi_out 0.499995
+phi_in 0.001149, phi_out 0.000000
+phi_in 0.000220, phi_out 0.000000
+phi_in 0.001205, phi_out 0.000000
+phi_in 0.000324, phi_out 0.000000
+phi_in 0.486326, phi_out 0.499995
+phi_in 0.000431, phi_out 0.000000
+phi_in 0.000843, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.014032
+iteration 10
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000591, phi_out 0.000000
+phi_in 0.492979, phi_out 0.499999
+phi_in 0.000574, phi_out 0.000000
+phi_in 0.000110, phi_out 0.000000
+phi_in 0.000603, phi_out 0.000000
+phi_in 0.000162, phi_out 0.000000
+phi_in 0.493160, phi_out 0.499999
+phi_in 0.000215, phi_out 0.000000
+phi_in 0.000422, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.007020
+iteration 11
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000295, phi_out 0.000000
+phi_in 0.496489, phi_out 0.500000
+phi_in 0.000287, phi_out 0.000000
+phi_in 0.000055, phi_out 0.000000
+phi_in 0.000301, phi_out 0.000000
+phi_in 0.000081, phi_out 0.000000
+phi_in 0.496580, phi_out 0.500000
+phi_in 0.000108, phi_out 0.000000
+phi_in 0.000211, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.003511
+iteration 12
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000148, phi_out 0.000000
+phi_in 0.498244, phi_out 0.500000
+phi_in 0.000144, phi_out 0.000000
+phi_in 0.000027, phi_out 0.000000
+phi_in 0.000151, phi_out 0.000000
+phi_in 0.000040, phi_out 0.000000
+phi_in 0.498290, phi_out 0.500000
+phi_in 0.000054, phi_out 0.000000
+phi_in 0.000105, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.001756
+iteration 13
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000074, phi_out 0.000000
+phi_in 0.499122, phi_out 0.500000
+phi_in 0.000072, phi_out 0.000000
+phi_in 0.000014, phi_out 0.000000
+phi_in 0.000075, phi_out 0.000000
+phi_in 0.000020, phi_out 0.000000
+phi_in 0.499145, phi_out 0.500000
+phi_in 0.000027, phi_out 0.000000
+phi_in 0.000053, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000878
+iteration 14
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000037, phi_out 0.000000
+phi_in 0.499561, phi_out 0.500000
+phi_in 0.000036, phi_out 0.000000
+phi_in 0.000007, phi_out 0.000000
+phi_in 0.000038, phi_out 0.000000
+phi_in 0.000010, phi_out 0.000000
+phi_in 0.499572, phi_out 0.500000
+phi_in 0.000013, phi_out 0.000000
+phi_in 0.000026, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000439
+iteration 15
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000018, phi_out 0.000000
+phi_in 0.499781, phi_out 0.500000
+phi_in 0.000018, phi_out 0.000000
+phi_in 0.000003, phi_out 0.000000
+phi_in 0.000019, phi_out 0.000000
+phi_in 0.000005, phi_out 0.000000
+phi_in 0.499786, phi_out 0.500000
+phi_in 0.000007, phi_out 0.000000
+phi_in 0.000013, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000219
+iteration 16
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000009, phi_out 0.000000
+phi_in 0.499890, phi_out 0.500000
+phi_in 0.000009, phi_out 0.000000
+phi_in 0.000002, phi_out 0.000000
+phi_in 0.000009, phi_out 0.000000
+phi_in 0.000003, phi_out 0.000000
+phi_in 0.499893, phi_out 0.500000
+phi_in 0.000003, phi_out 0.000000
+phi_in 0.000007, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000110
+iteration 17
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000005, phi_out 0.000000
+phi_in 0.499945, phi_out 0.500000
+phi_in 0.000004, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000005, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499947, phi_out 0.500000
+phi_in 0.000002, phi_out 0.000000
+phi_in 0.000003, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000055
+iteration 18
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000002, phi_out 0.000000
+phi_in 0.499973, phi_out 0.500000
+phi_in 0.000002, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000002, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499973, phi_out 0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000002, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000027
+iteration 19
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499986, phi_out 0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.499987, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+site 0 0 1
+site 0 1 0
+site 0 1 1
+site 1 0 0
+site 1 0 1
+site 1 1 0
+site 1 1 1
+distance 0.000014
+iteration 20
+.................
+diagonalization and calc_phi of all sites completed
+site 0 0 0
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499993, phi_out 0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.499993, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+site 0 0 1
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499995, phi_out -0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499995, phi_out -0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+site 0 1 0
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499995, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.499994, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+site 0 1 1
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499994, phi_out -0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in -0.499995, phi_out -0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+site 1 0 0
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.499994, phi_out 0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499994, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+site 1 0 1
+phi_in 0.000000, phi_out 0.000000
+phi_in -0.499994, phi_out -0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499993, phi_out -0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+site 1 1 0
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.499993, phi_out 0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.499993, phi_out 0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+site 1 1 1
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499995, phi_out -0.500000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+phi_in 0.000001, phi_out 0.000000
+phi_in -0.499995, phi_out -0.500000
+phi_in 0.000001, phi_out 0.000000
+phi_in 0.000000, phi_out 0.000000
+distance 0.000007
+converged!
+iteration 21
+.................
+

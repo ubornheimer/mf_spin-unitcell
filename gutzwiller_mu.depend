@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1482223276 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<vector>
+	"include/Parameters.h"
+	"include/Gutzwiller.h"
+	"include/File_op.h"
+
+1482223236 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/src/Gutzwiller.cpp
+	"../include/Gutzwiller.h"
+
+1482219579 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/include/Gutzwiller.h
+	<complex.h>
+	<vector>
+	"Parameters.h"
+	<math.h>
+	"../Utils.h"
+	"Eigstatval.h"
+
+1481881313 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/include/Parameters.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+
+1482211775 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/src/Parameters.cpp
+	"../include/Parameters.h"
+
+1482222684 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Utils.h
+	<complex.h>
+	<vector>
+	"include/Eigstatval.h"
+
+1482223263 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Utils.cpp
+	"Utils.h"
+
+1482140658 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/src/Eigstatval.cpp
+	"../include/Eigstatval.h"
+
+1481873782 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/include/Eigstatval.h
+	<complex.h>
+	<vector>
+
+1482223292 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/include/File_op.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	"Eigstatval.h"
+	"Parameters.h"
+
+1482403540 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/src/File_op.cpp
+	"../include/File_op.h"
+
+1481881313 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Parameters.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+
+1482136046 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Gutzwiller.h
+	<complex.h>
+	<vector>
+	"Parameters.h"
+	<math.h>
+	"Utils.h"
+	"Eigstatval.h"
+
+1481873782 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Eigstatval.h
+	<complex.h>
+	<vector>
+
+1482136113 /home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/File_op.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	"Eigstatval.h"
+	"Parameters.h"
+
+1481871247 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Eigstatval.cpp
+	"Eigstatval.h"
+
+1482136465 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/File_op.cpp
+	"File_op.h"
+
+1481875731 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Gutzwiller.cpp
+	"Gutzwiller.h"
+
+1481881346 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_mu/Parameters.cpp
+	"Parameters.h"
+

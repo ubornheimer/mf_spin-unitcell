@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1483451719 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<vector>
+	"include/Parameters.h"
+	"include/Gutzwiller.h"
+	"include/File_op.h"
+
+1481881313 /home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/include/Parameters.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+
+1482900176 /home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/include/Gutzwiller.h
+	<complex.h>
+	<vector>
+	"Parameters.h"
+	<math.h>
+	"../Utils.h"
+	"Eigstatval.h"
+
+1482900354 /home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/Utils.h
+	<complex.h>
+	<vector>
+	"include/Eigstatval.h"
+
+1482835775 /home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/include/Eigstatval.h
+	<complex.h>
+	<vector>
+
+1482835902 /home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/include/File_op.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	"Eigstatval.h"
+	"Parameters.h"
+
+1482140658 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/src/Eigstatval.cpp
+	"../include/Eigstatval.h"
+
+1482835936 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/src/File_op.cpp
+	"../include/File_op.h"
+
+1482981130 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/src/Gutzwiller.cpp
+	"../include/Gutzwiller.h"
+
+1482836247 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/Utils.cpp
+	"Utils.h"
+
+1482945410 source:/home/ulli/Dropbox/persoenlich/code/gutzwiller_phi/src/Parameters.cpp
+	"../include/Parameters.h"
+
+1524105734 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<vector>
+	"include/Parameters.h"
+	"include/Gutzwiller.h"
+	"include/File_op.h"
+
+1520329296 /home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Parameters.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	<random>
+
+1524113328 /home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Gutzwiller.h
+	<complex.h>
+	<vector>
+	"Parameters.h"
+	<math.h>
+	"../Utils.h"
+	"Eigstatval.h"
+
+1524047556 /home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/Utils.h
+	<complex.h>
+	<vector>
+	"include/Eigstatval.h"
+
+1482835775 /home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Eigstatval.h
+	<complex.h>
+	<vector>
+
+1520241788 /home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/include/File_op.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	"Eigstatval.h"
+	"Parameters.h"
+
+1482140658 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Eigstatval.cpp
+	"../include/Eigstatval.h"
+
+1520245220 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/src/File_op.cpp
+	"../include/File_op.h"
+
+1524123750 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Gutzwiller.cpp
+	"../include/Gutzwiller.h"
+
+1524124394 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Parameters.cpp
+	"../include/Parameters.h"
+
+1520841289 source:/home/ulli/Dropbox/persoenlich/code/meanfield_spinunitcell/Utils.cpp
+	"Utils.h"
+
+1511261486 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<vector>
+	"include/Parameters.h"
+	"include/Gutzwiller.h"
+	"include/File_op.h"
+
+1511260545 /home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Parameters.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	<random>
+
+1501748197 /home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Gutzwiller.h
+	<complex.h>
+	<vector>
+	"Parameters.h"
+	<math.h>
+	"../Utils.h"
+	"Eigstatval.h"
+
+1501569088 /home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/Utils.h
+	<complex.h>
+	<vector>
+	"include/Eigstatval.h"
+
+1482835775 /home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/include/Eigstatval.h
+	<complex.h>
+	<vector>
+
+1501751951 /home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/include/File_op.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<complex.h>
+	<vector>
+	"Eigstatval.h"
+	"Parameters.h"
+
+1482140658 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Eigstatval.cpp
+	"../include/Eigstatval.h"
+
+1512979385 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/src/File_op.cpp
+	"../include/File_op.h"
+
+1512979242 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Parameters.cpp
+	"../include/Parameters.h"
+
+1501743052 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/Utils.cpp
+	"Utils.h"
+
+1512642410 source:/home/cqt/Dropbox/persoenlich/code/meanfield_spinunitcell/src/Gutzwiller.cpp
+	"../include/Gutzwiller.h"
+

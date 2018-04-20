@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/Gutzwiller.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="558" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Utils.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="108" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="37" />
+			<Collapse line="41" />
+			<Collapse line="43" />
+			<Collapse line="48" />
+		</Folding>
+	</File>
+	<File name="src/File_op.cpp" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4143" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="18" />
+			<Collapse line="20" />
+		</Folding>
+	</File>
+	<File name="Utils.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1537" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="5" />
+			<Collapse line="59" />
+			<Collapse line="61" />
+			<Collapse line="87" />
+			<Collapse line="90" />
+			<Collapse line="96" />
+			<Collapse line="114" />
+			<Collapse line="117" />
+			<Collapse line="120" />
+			<Collapse line="129" />
+			<Collapse line="133" />
+			<Collapse line="141" />
+			<Collapse line="145" />
+			<Collapse line="153" />
+			<Collapse line="157" />
+			<Collapse line="165" />
+			<Collapse line="169" />
+			<Collapse line="177" />
+			<Collapse line="187" />
+			<Collapse line="189" />
+			<Collapse line="192" />
+			<Collapse line="194" />
+			<Collapse line="205" />
+			<Collapse line="210" />
+			<Collapse line="219" />
+			<Collapse line="227" />
+			<Collapse line="230" />
+			<Collapse line="237" />
+			<Collapse line="242" />
+			<Collapse line="245" />
+		</Folding>
+	</File>
+	<File name="include/Parameters.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="726" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+		</Folding>
+	</File>
+	<File name="src/Parameters.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1432" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="8" />
+			<Collapse line="22" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="36" />
+			<Collapse line="43" />
+			<Collapse line="46" />
+		</Folding>
+	</File>
+	<File name="src/Gutzwiller.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="453" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/Eigstatval.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/Eigstatval.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/File_op.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="112" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
