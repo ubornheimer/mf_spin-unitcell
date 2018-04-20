@@ -19,6 +19,7 @@ typedef vector<cd3D> cd4D;
 
 int main(int argc , char* argv[])
 {
+    printf("git test\n");
     //input: cluster_size, compnr, repnr, gentype (Gell-Mann matrices or Tensor Operators), tol (10e-tol), maxit
     Parameters params(argc, argv);
     Gutzwiller gutzwiller(params);
